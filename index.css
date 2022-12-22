@@ -101,3 +101,25 @@ h2 {
 section {
  padding: 0 109px;
 }
+
+h3 {
+ font-size: 20px;
+ font-weight: 700;
+ color: #E06733;
+}
+
+.service {
+ height: 1300px;
+ background-color: #EDF2EC;
+}
+
+.service-bloks {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 117px;
+}
+
+.service-item {
+ width: 329px;
+ height: 450px;
+}
